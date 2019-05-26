@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/.DS_Store",
+      "sha1": "df2fbeb1400acda0909a32c1cf6bf492f1121e07"
+    },
+    {
+      "path": "assets/fonts/icomoon.ttf",
+      "sha1": "1a45e284d6e46b7fbc7d3f11a05801a7e975c1a0"
+    }
+  ]
+}
